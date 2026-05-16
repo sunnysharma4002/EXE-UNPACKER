@@ -1,0 +1,15 @@
+# Core dependencies
+pyperclip==1.8.2
+pefile==2023.2.7
+
+# Optional: For enhanced C++ analysis
+# radare2==5.8.0
+# capstone==5.0.0
+# keystone-engine==0.9.2
+
+# Optional: For .NET analysis with dnSpy
+# pythonnet==3.0.1
+# mono==1.0.2
+# Optional: For encryption decryption
+# pycryptodome==3.19.0
+# capstone==5.0.0
